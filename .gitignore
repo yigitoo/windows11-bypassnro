@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#custom exe
+build/
+dist/
+bypass
+bypass.exe
+bypass.spec
+
 # C extensions
 *.so
 
